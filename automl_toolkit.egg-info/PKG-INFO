@@ -1,0 +1,8 @@
+Metadata-Version: 2.2
+Name: automl_toolkit
+Version: 0.1
+Requires-Dist: scikit-learn
+Requires-Dist: pandas
+Requires-Dist: matplotlib
+Requires-Dist: seaborn
+Dynamic: requires-dist

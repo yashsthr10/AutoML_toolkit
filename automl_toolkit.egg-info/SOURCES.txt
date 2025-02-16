@@ -1,0 +1,11 @@
+setup.py
+automl/__init__.py
+automl/automl_pipeline.py
+automl/model_trainer.py
+automl/preprocess.py
+automl_toolkit.egg-info/PKG-INFO
+automl_toolkit.egg-info/SOURCES.txt
+automl_toolkit.egg-info/dependency_links.txt
+automl_toolkit.egg-info/requires.txt
+automl_toolkit.egg-info/top_level.txt
+tests/test.py
