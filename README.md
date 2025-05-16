@@ -148,5 +148,4 @@ print(info['metrics'])
 - Academic experiments & demos.
 - Prototype feature pipelines before full engineering.
 
-*Documentation crafted. Go forth, experiment wildly, and may your metrics be ever in your favor.*
->>>>>>> 378446c (updated autoML)
+
