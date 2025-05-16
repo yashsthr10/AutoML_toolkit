@@ -1,8 +1,14 @@
 Metadata-Version: 2.2
 Name: automl_toolkit
-Version: 0.1
+Version: 1.0
 Requires-Dist: scikit-learn
 Requires-Dist: pandas
 Requires-Dist: matplotlib
-Requires-Dist: seaborn
+Requires-Dist: numpy
+Requires-Dist: xgboost
+Requires-Dist: imblearn
+Requires-Dist: optuna
+Requires-Dist: pickle
+Requires-Dist: json
+Requires-Dist: scipy
 Dynamic: requires-dist
